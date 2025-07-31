@@ -81,9 +81,6 @@ const Header: React.FC<HeaderProps> = ({ gameDate, gameSpeed, onGameSpeedChange,
                     <div className="text-xs text-slate-400 -mt-1">Game Time</div>
                 </div>
             )}
-            <div className="text-sm font-medium text-slate-400">
-              v0.8.0
-            </div>
           </div>
         </div>
       </div>
