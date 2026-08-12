@@ -2,7 +2,7 @@
 
 고전 명작 "캐피탈리즘 (Capitalism)"에서 영감을 받아 제작된, 깊이 있는 비즈니스 시뮬레이션 게임입니다. 역동적인 세계 경제 속에서 지능적인 AI와 경쟁하며 자신만의 글로벌 기업 제국을 건설해 보세요.
 
-실행주소1 : https://capitalism-web.vercel.app/
+실행주소1 : https://sigco3111.github.io/capitalism-web/
 
 실행주소2 : https://dev-canvas-pi.vercel.app/
 
