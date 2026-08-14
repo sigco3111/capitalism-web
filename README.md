@@ -2,9 +2,11 @@
 
 고전 명작 "캐피탈리즘 (Capitalism)"에서 영감을 받아 제작된, 깊이 있는 비즈니스 시뮬레이션 게임입니다. 역동적인 세계 경제 속에서 지능적인 AI와 경쟁하며 자신만의 글로벌 기업 제국을 건설해 보세요.
 
-실행주소1 : https://sigco3111.github.io/capitalism-web/
 
-실행주소2 : https://dev-canvas-pi.vercel.app/
+[![Live](https://img.shields.io/badge/Live-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/capitalism-web/)
+
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 운영되었으나 2026-08에 GitHub Pages로 전환했습니다. 공식 라이브 데모는 위 Pages URL입니다.
+
 
 
 ---
